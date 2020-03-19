@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### VIDEOS
+pure React
+stream the video you want just like in youtube.
 ## Available Scripts
 
 In the project directory, you can run:
