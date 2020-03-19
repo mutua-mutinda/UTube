@@ -7,7 +7,7 @@ stream the video you want just like in youtube.
 
 In the project directory, you can run:
 ## Features
-[x] RESTful operation
+- [x] RESTful operation
 
 ### `npm start`
 
