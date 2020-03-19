@@ -3,9 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### VIDEOS
 pure React <br/>
 stream the video you want just like in youtube.
-## Available Scripts
+<br/>
 
 In the project directory, you can run:
+## Features
+[x] RESTful operation
 
 ### `npm start`
 
